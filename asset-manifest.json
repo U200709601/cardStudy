@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cardStudy/static/css/main.283f4f05.css",
+    "main.js": "/cardStudy/static/js/main.ae529b7e.js",
+    "static/js/787.e2151f08.chunk.js": "/cardStudy/static/js/787.e2151f08.chunk.js",
+    "index.html": "/cardStudy/index.html",
+    "main.283f4f05.css.map": "/cardStudy/static/css/main.283f4f05.css.map",
+    "main.ae529b7e.js.map": "/cardStudy/static/js/main.ae529b7e.js.map",
+    "787.e2151f08.chunk.js.map": "/cardStudy/static/js/787.e2151f08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.283f4f05.css",
+    "static/js/main.ae529b7e.js"
+  ]
+}
